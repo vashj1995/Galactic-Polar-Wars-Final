@@ -1,0 +1,15 @@
+gregory-die-1 1 1 161 150
+gregory-die-2 164 1 161 150
+gregory-die-3 327 1 161 150
+gregory-die-4 490 1 161 150
+gregory-hit-1 653 1 161 150
+gregory-hit-2 1 153 161 150
+gregory-hit-3 164 153 161 150
+gregory-hit-4 327 153 161 150
+gregory-idle 490 153 161 150
+gregory-jump 653 153 156 150
+gregory-walk-1 1 305 161 150
+gregory-walk-2 164 305 161 150
+gregory-walk-3 327 305 161 150
+gregory-walk-4 490 305 161 150
+gregory-walk-5 653 305 161 150
